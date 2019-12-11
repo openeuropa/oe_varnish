@@ -1,0 +1,6 @@
+name: OpenEuropa Varnish
+description: OpenEuropa Varnish module.
+package: OpenEuropa
+
+type: module
+core: 8.x
